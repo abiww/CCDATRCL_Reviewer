@@ -36,6 +36,35 @@ public class LinkedListExample {
 			if((int) it.next() == 4) {
 				System.out.print("Found it!");
 			}
-		} */
+		} 
+  JAVA LinkedList Methods
+  add() - add or push
+  get() - return the element
+  set() - change
+  remove() - remove or pop
+  contains() - check if LinkedList contains element
+  indexOf() - returns the first occurrence index
+  lastIndexOf() - last occurrence
+  clear() - remove all element
+  iterator() - repeat
+
+  LinkedList as Queue and Deque
+  queue - elements are added from rear and removed from the front
+  deque - elements are inserted and removed from both rear and front
+
+  Methods of Deque
+  addFirst()
+  addLast()
+  offerFirst()
+  offerLast()
+  getFirst()
+  getLast()
+  peekFirst()
+  peekLast()
+  removeFirst()
+  removeLast()
+  pollFirst()
+  pollLast()
+  */
 	}
 }
